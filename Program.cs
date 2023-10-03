@@ -19,17 +19,6 @@ namespace BrightsUke1
 
 
         }
-    
-       
-        /*
-         * Task 1.3
-Categorizing people 
-Write a program that asks the user for 2 different persons' names (one at a time, so 2 inputs
-        Then asks for each persons' age, by using their name. Finally display a sentence stating who is older, 
-        or if they are of equal age.
-Examples: (it is ok if your texts are somewhat different, this is just one way of doing it)
-         
-         */
         public static void categorizePeople()
         {
             Console.WriteLine("Welcome! can you give me 2 names, one at a time?");
