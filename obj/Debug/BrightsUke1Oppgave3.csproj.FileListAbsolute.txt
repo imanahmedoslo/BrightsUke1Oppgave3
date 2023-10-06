@@ -1,0 +1,8 @@
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\bin\Debug\BrightsUke1.exe.config
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\bin\Debug\BrightsUke1.exe
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\bin\Debug\BrightsUke1.pdb
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\obj\Debug\BrightsUke1Oppgave3.csproj.AssemblyReference.cache
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\obj\Debug\BrightsUke1Oppgave3.csproj.SuggestedBindingRedirects.cache
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\obj\Debug\BrightsUke1Oppgave3.csproj.CoreCompileInputs.cache
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\obj\Debug\BrightsUke1.exe
+C:\Users\imana\source\repos\BrightsUke1\BrightsUke1\obj\Debug\BrightsUke1.pdb

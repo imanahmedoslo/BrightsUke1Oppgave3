@@ -22,10 +22,10 @@ namespace BrightsUke1
             if (Age > comparingPartner.Age)
             {
                 Console.WriteLine (Name+ " is older than " + comparingPartner.Name);
-            } else
+            } else if(Age < comparingPartner.Age)
             {
                 Console.WriteLine (comparingPartner.Name+ " is older than " + Name);
-            }
+            } else { Console.WriteLine("they are both the same age ^^"); }
         }
     }
     
