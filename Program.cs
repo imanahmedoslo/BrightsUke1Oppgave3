@@ -30,7 +30,6 @@ namespace BrightsUke1
             var age2= int.Parse(Console.ReadLine());
             person person1= new person(name1, age1 );
             person person2= new person(name2, age2 );
-            Console.WriteLine(person1.Name);
             person1.rankAge(person2);
         }
 
